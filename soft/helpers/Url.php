@@ -1,0 +1,1 @@
+<?php	namespace soft\helpers;	use yii\helpers\Url as YiiUrl;	class Url extends YiiUrl	{        public static function homeUrl($params=null)        {                return static::to('/', true);        }    }?>

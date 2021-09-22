@@ -1,0 +1,20 @@
+#my-list-group .list-group-item {
+
+    border-right: none !important;
+    border-left: none !important;
+    border-radius: 0 !important;
+
+}
+
+.align-middle {
+    vertical-align: middle !important;
+}
+
+.align-center {
+    text-align: center;
+}
+
+.table-center td, .table-center th {
+    vertical-align: middle !important;
+    text-align: center;
+}
